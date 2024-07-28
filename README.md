@@ -1,4 +1,4 @@
-```json
+```
  _____  _             _  _
 /  __ \| |           | || |
 | /  \/| |__    __ _ | || | __     ___  _ __   _ __
@@ -16,7 +16,7 @@
 - Lightweight and easy to integrate
 
 ## Installation
-You can integrate chalk.cpp into your project by including the `Chalk.cpp` and `Chalk.h`. Examples can be found in `./test/` folder and in [Examples section](##Examples).
+You can integrate chalk.cpp into your project by including the `Chalk.cpp` and `Chalk.h`. Examples can be found in `./test/` folder and in [Examples section](#examples).
 
 ## Examples
 
@@ -37,6 +37,7 @@ std::cout << Chalk::bgGreen(sampleText) << std::endl;
 ```
 
 ## Options
+
 <img src="https://i.imgur.com/ROGRF3S.png">
 
 ### Foreground Colors
